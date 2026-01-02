@@ -33,8 +33,8 @@ export const CONTENT_EN: Content = {
     heading: 'Bridging the gap between Medicine and Marketing',
     description: 'Founded by Dr. Mohamed Hakeem, we understand the nuances of the medical field that general agencies miss. We craft narratives that resonate with patients and build authority for practitioners.',
     stats: [
-      { label: 'Happy Doctors', value: '150+' },
-      { label: 'Campaigns', value: '500+' },
+      { label: 'Happy Doctors', value: '30+' },
+      { label: 'Campaigns', value: '100+' },
       { label: 'Years Exp.', value: '8+' },
     ],
     modal: {
